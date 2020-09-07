@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: Guns Evolved
+Implementation-Version: 1.0
+Specification-Vendor: examplemodsareus
+Specification-Title: examplemod
+Implementation-Timestamp: 2020-09-07T01:35:35-0400
+Specification-Version: 1
+Implementation-Vendor: examplemodsareus
+

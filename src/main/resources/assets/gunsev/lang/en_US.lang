@@ -1,0 +1,12 @@
+item.ingot_copper.name=Copper Ingot
+item.ingot_zinc.name=Zinc Ingot
+item.ingot_steel.name=Steel Ingot
+item.ingot_mercury.name=Mercury Bottle
+item.ingot_brass.name=Brass Ingot
+item.ingot_lead.name=Lead Ingot
+tile.block_copper.name=Copper Block
+tile.block_zinc.name=Zinc Block
+tile.block_steel.name=Steel Block
+tile.block_mercury.name=Mercury Keg
+tile.block_brass.name=Brass Block
+tile.block_lead.name=Lead Block

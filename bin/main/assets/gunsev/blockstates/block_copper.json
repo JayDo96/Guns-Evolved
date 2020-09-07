@@ -1,0 +1,9 @@
+{
+	"variants": 
+	{
+		"normal":{ "model" : "gunsev:block_copper"}
+	},
+	"defaults": {
+		"model": "gunsev:block_copper"
+	}
+}

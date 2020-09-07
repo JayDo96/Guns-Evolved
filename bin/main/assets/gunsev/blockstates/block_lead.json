@@ -1,0 +1,9 @@
+{
+	"variants": 
+	{
+		"normal":{ "model" : "gunsev:block_lead"}
+	},
+	"defaults": {
+		"model": "gunsev:block_lead"
+	}
+}

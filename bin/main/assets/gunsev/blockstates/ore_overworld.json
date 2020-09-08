@@ -1,0 +1,11 @@
+{
+	"variants": 
+	{
+		"variant=copper": {"model": "gunsev:ore_overworld_copper"},
+		"variant=zinc": {"model": "gunsev:ore_overworld_zinc"},
+		"variant=lead": {"model": "gunsev:ore_overworld_lead"},
+		"variant=mercury": {"model": "gunsev:ore_overworld_mercury"},
+		"variant=saltpeter": {"model": "gunsev:ore_overworld_saltpeter"},
+		"variant=sulfur": {"model": "gunsev:ore_overworld_sulfur"}
+	}
+}

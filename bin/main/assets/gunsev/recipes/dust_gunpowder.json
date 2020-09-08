@@ -1,0 +1,25 @@
+{
+	"type" : "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"xxx",
+		"xxx",
+		"xxx"
+	],
+	
+	"key":
+	{
+		"x":
+		{
+			"item" : "gunsev:dust_gunpowder_charge"
+		}
+	},
+	
+	"result": 
+	{
+		"item" : "minecraft:gunpowder",
+		"count": 1
+	}
+	
+}

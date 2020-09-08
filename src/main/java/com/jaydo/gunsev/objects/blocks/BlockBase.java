@@ -3,6 +3,7 @@ package com.jaydo.gunsev.objects.blocks;
 import com.jaydo.gunsev.Main;
 import com.jaydo.gunsev.init.BlockInit;
 import com.jaydo.gunsev.init.ItemInit;
+import com.jaydo.gunsev.tabs.GunsTab;
 import com.jaydo.gunsev.util.IHasModel;
 
 import net.minecraft.block.Block;
@@ -18,8 +19,7 @@ public class BlockBase extends Block implements IHasModel
 		super(material);
 		setUnlocalizedName(name);
 		setRegistryName(name);
-		setCreativeTab(CreativeTabs.MISC);
-		
+		setCreativeTab(Main.gunstab);
 		BlockInit.BLOCKS.add(this);
 		ItemInit.ITEMS.add(new ItemBlock(this).setRegistryName(this.getRegistryName()));
 		

@@ -17,7 +17,7 @@ public class ItemBase extends Item implements IHasModel
 		ResourceLocation resource = new ResourceLocation(Reference.MODID, name);
 		setUnlocalizedName(name);
 		setRegistryName(resource);
-		setCreativeTab(CreativeTabs.MATERIALS);
+		setCreativeTab(Main.gunstab);
 		ItemInit.ITEMS.add(this);
 	}
 

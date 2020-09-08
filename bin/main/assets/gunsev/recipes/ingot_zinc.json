@@ -1,0 +1,23 @@
+{
+	"type" : "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"x"
+	],
+	
+	"key":
+	{
+		"x":
+		{
+			"item" : "gunsev:block_zinc"
+		}
+	},
+	
+	"result": 
+	{
+		"item" : "gunsev:ingot_zinc",
+		"count": 9
+	}
+	
+}

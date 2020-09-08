@@ -1,0 +1,9 @@
+{
+	"variants": 
+	{
+		"normal":{ "model" : "gunsev:block_saltpeter"}
+	},
+	"defaults": {
+		"model": "gunsev:block_saltpeter"
+	}
+}

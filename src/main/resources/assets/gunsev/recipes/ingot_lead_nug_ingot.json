@@ -1,0 +1,23 @@
+{
+	"type" : "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"x"
+	],
+	
+	"key":
+	{
+		"x":
+		{
+			"item" : "gunsev:ingot_lead"
+		}
+	},
+	
+	"result": 
+	{
+		"item" : "gunsev:nugget_lead",
+		"count": 9
+	}
+	
+}

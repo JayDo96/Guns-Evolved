@@ -1,0 +1,11 @@
+{
+	"variants": 
+	{
+		"variant=copper": {"model": "gunsev:ore_nether_copper"},
+		"variant=zinc": {"model": "gunsev:ore_nether_zinc"},
+		"variant=lead": {"model": "gunsev:ore_nether_lead"},
+		"variant=mercury": {"model": "gunsev:ore_nether_mercury"},
+		"variant=saltpeter": {"model": "gunsev:ore_nether_saltpeter"},
+		"variant=sulfur": {"model": "gunsev:ore_nether_sulfur"}
+	}
+}

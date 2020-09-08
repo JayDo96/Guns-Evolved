@@ -1,0 +1,23 @@
+{
+	"type" : "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"x"
+	],
+	
+	"key":
+	{
+		"x":
+		{
+			"item" : "gunsev:ingot_zinc"
+		}
+	},
+	
+	"result": 
+	{
+		"item" : "gunsev:nugget_zinc",
+		"count": 9
+	}
+	
+}

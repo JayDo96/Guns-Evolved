@@ -4,7 +4,11 @@ import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
 import com.jaydo.gunsev.proxy.CommonProxy;
+import com.jaydo.gunsev.tabs.GunsTab;
 import com.jaydo.gunsev.util.Reference;
+import com.jaydo.gunsev.util.handlers.RegistryHandler;
+
+import net.minecraft.creativetab.CreativeTabs;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.Mod.EventHandler;
 import net.minecraftforge.fml.common.Mod.Instance;
@@ -19,6 +23,7 @@ public class Main
 {
 	public static final Logger GUNSEV_LOG = LogManager.getLogger(Reference.MODID);
 	public static final Logger LOGGER = LogManager.getLogger();
+	public static final CreativeTabs gunstab = new GunsTab("gunstab");
 	
 	@Instance
 	public static Main instance;
@@ -30,6 +35,7 @@ public class Main
 	public static void preInit(FMLPreInitializationEvent event)
 	{
 		LOGGER.debug("preInit");
+		RegistryHandler.otherRegistries();
 	}
 	
 	@EventHandler

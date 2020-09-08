@@ -1,0 +1,23 @@
+{
+	"type" : "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"x"
+	],
+	
+	"key":
+	{
+		"x":
+		{
+			"item" : "gunsev:dust_smokeless"
+		}
+	},
+	
+	"result": 
+	{
+		"item" : "gunsev:dust_smokeless_charge",
+		"count": 9
+	}
+	
+}

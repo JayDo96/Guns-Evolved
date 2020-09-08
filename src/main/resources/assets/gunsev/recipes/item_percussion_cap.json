@@ -1,0 +1,28 @@
+{
+	"type" : "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"x",
+		"i"
+	],
+	
+	"key":
+	{
+		"x":
+		{
+			"item" : "gunsev:ingot_mercury"
+		},
+		"i":
+		{
+			"item" : "gunsev:ingot_mercury"
+		}
+	},
+	
+	"result": 
+	{
+		"item" : "gunsev:block_mercury",
+		"count": 1
+	}
+	
+}

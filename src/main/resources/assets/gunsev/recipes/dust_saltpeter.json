@@ -1,0 +1,23 @@
+{
+	"type" : "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"x"
+	],
+	
+	"key":
+	{
+		"x":
+		{
+			"item" : "gunsev:block_saltpeter"
+		}
+	},
+	
+	"result": 
+	{
+		"item" : "gunsev:dust_saltpeter",
+		"count": 9
+	}
+	
+}

@@ -1,0 +1,23 @@
+{
+	"type" : "minecraft:crafting_shaped",
+	
+	"pattern":
+	[
+		"x"
+	],
+	
+	"key":
+	{
+		"x":
+		{
+			"item" : "gunsev:block_sulfur"
+		}
+	},
+	
+	"result": 
+	{
+		"item" : "gunsev:dust_sulfur",
+		"count": 9
+	}
+	
+}

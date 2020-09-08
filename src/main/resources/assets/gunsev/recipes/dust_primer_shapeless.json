@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": 
+    [
+        {
+            "item": "gunsev:ingot_mercury"
+        },
+        {
+            "item": "gunsev:dust_saltpeter"
+        },
+        {
+            "item": "minecraft:fermented_spider_eye"
+        }
+    ],
+    "result": 
+    {
+        "item": "gensev:dust_primer",
+        "count": 8
+    }
+}

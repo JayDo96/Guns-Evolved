@@ -33,6 +33,14 @@ public class ItemInit
 	public static final Item NUGGET_LEAD = new ItemBase("nugget_lead");
 	//misc item decleration
 	public static final Item ITEM_PERCUSSION_CAP = new ItemBase("item_percussion_cap");
+	//cast item declartion
+	public static final Item CAST_SMALL_BALL = new ItemBase("cast_small_ball");
+	public static final Item CAST_MEDIUM_BALL = new ItemBase("cast_medium_ball");
+	public static final Item CAST_LARGE_BALL = new ItemBase("cast_large_ball");
+	// ammo item declaration
+	public static final Item AMMO_BALL_LEAD_SMALL = new ItemBase("ammo_ball_lead_small");
+	public static final Item AMMO_BALL_LEAD_MEDIUM = new ItemBase("ammo_ball_lead_medium");
+	public static final Item AMMO_BALL_LEAD_LARGE = new ItemBase("ammo_ball_lead_large");
 	
 	
 	

@@ -1,0 +1,12 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "particle": "gunsev:block/block_caster_front_on",
+        "up": "gunsev:block/block_caster_top",
+        "down": "gunsev:block/block_caster_side",
+        "north": "gunsev:block/block_caster_front_on",
+        "east": "gunsev:block/block_caster_side",
+        "south": "gunsev:block/block_caster_side",
+        "west": "gunsev:block/block_caster_side"
+    }
+}

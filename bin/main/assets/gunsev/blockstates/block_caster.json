@@ -1,0 +1,13 @@
+{
+	"variants": 
+	{
+		"on=false,facing=north" : { "model" : "gunsev:block_caster" },
+		"on=false,facing=east" : { "model" : "gunsev:block_caster", "y":90},
+		"on=false,facing=south" : { "model" : "gunsev:block_caster", "y":180},
+		"on=false,facing=west" : { "model" : "gunsev:block_caster", "y":270},
+		"on=true,facing=north" : { "model" : "gunsev:block_caster_lit" },
+		"on=truefacing=east" : { "model" : "gunsev:block_caster_lit", "y":90},
+		"on=true,facing=south" : { "model" : "gunsev:block_caster_lit", "y":180},
+		"on=true,facing=west" : { "model" : "gunsev:block_caster_lit", "y":270}
+	}
+}

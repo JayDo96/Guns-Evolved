@@ -5,6 +5,7 @@ import java.util.List;
 
 import com.jaydo.gunsev.objects.blocks.BlockBase;
 import com.jaydo.gunsev.objects.blocks.BlockOres;
+import com.jaydo.gunsev.objects.blocks.machines.caster.BlockCaster;
 
 import net.minecraft.block.Block;
 import net.minecraft.block.material.Material;
@@ -27,4 +28,7 @@ public class BlockInit
 	 // dust block declaration
 	 public static final Block BLOCK_SALTPETER = new BlockBase("block_saltpeter", Material.ROCK);
 	 public static final Block BLOCK_SULFUR = new BlockBase("block_sulfur", Material.ROCK);
+	 
+	 //machine declaration
+	 public static final Block BLOCK_CASTER = new BlockCaster("block_caster");
 }

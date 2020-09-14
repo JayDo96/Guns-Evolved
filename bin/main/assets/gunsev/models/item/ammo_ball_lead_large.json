@@ -1,0 +1,6 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "gunsev:item/ammo_ball_lead_large"
+	}
+}
